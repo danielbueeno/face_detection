@@ -14,3 +14,4 @@ This is a face detection using OpenCv.
 ## To run 
 - Install the dependences `using pip install -r requirements.txt`
 - Run the code `python3 face_detec.py`
+- Use `video` and `images` folders to perform some of the options.
